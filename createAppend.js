@@ -4,18 +4,18 @@ let container = document.querySelector(".container");
 
 // 1. Create an h2 element.
 // - Store it in a variable called h2.
-
+document.body.appendChild(h2)
 
 // 2. Set the innerHTML of h2 to your name.
-
+h2.innerHTML = "name";
 
 
 // 3. Style at least two different properties for the heading.
-
-
+h2.style.color = "purple";
+body.style.color = "orange";
 
 // 4. Select the container div and append the h2 element.
-
+document.h2.appendChild
 
 
 // 5. Create a paragraph element.
